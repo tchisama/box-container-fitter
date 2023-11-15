@@ -67,7 +67,6 @@ const buckets = [
     { width: 3, name: "🧡" },
     { width: 6, name: "🧡" },
     { width: 3, name: "🟦" },
-    { width: 6 , name:"✅"}
 ];
 
 
