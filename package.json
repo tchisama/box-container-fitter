@@ -4,12 +4,7 @@
   "description": "",
   "main": "box2.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "nodemon": "^3.0.1",
-    "sharp": "^0.32.6"
-  }
+  "license": "ISC"
 }
